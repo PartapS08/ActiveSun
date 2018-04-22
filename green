@@ -1,5 +1,6 @@
 <?php
 
+import module=gram
 echo "Module name Green";
 
 ?>
